@@ -201,6 +201,8 @@ ccwatch_DR_CLASS = {
 	["Hibernate"] = 11,
 
 	["Frost Shock"] = 12,
+	
+	["Kick - Silenced"] = 13,
 }
 
 ccwatch_UNIQUENESS_CLASS = {
